@@ -1,2 +1,2 @@
 # Значение по умолчанию для всех application
-nameProp: Value property "nameProp" from REMOTE (server config server) application.yml
+propForAll: Value property "propForAll" from REMOTE (server config server) application.yml
