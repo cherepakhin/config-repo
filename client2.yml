@@ -1,2 +1,2 @@
 # Значение для CLIENT2
-nameProp: Value property "nameProp" for CLIENT2 from REMOTE (server config server) application.yml
+nameProp: Value property "nameProp" for CLIENT2 from REMOTE (server config server) client2.yml
